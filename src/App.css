@@ -10,6 +10,11 @@
 
 h2 {
   font-family: "Lato", sans-serif;
+  color: black;
+}
+
+.button-main{
+  color: cyan;
 }
 
 .app-main {
